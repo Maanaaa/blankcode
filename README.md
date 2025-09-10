@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Maanaaa/blankcode/blob/main/assets/banniere%404x.png" alt="BlankCode logo" width="100%">
+  <img src="https://github.com/Maanaaa/blankcode/blob/main/assets/banniere.png" alt="BlankCode logo" width="100%">
 </p>
 
 ---
